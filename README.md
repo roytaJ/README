@@ -398,5 +398,5 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 
 #### 补充
-[带圆圈的数字和markdown常用表达式记录]（https://blog.csdn.net/appleyuchi/article/details/84036985）
+[带圆圈的数字和markdown常用表达式记录](https://blog.csdn.net/appleyuchi/article/details/84036985)
 [HTML中的特殊符号](https://blog.csdn.net/html5_/article/details/21639475)
